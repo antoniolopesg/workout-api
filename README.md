@@ -27,6 +27,7 @@ Go-based API for workout and exercise management, offering authentication and wo
 
 ## TODO List
 
+- [ ] Environment variables for database url(or aws secrets manager)
 - [ ] List workouts(Pagination)
 - [ ] Add Observability (logs, metrics and tracing)
 - [ ] Refactor to Feature-based Organization
