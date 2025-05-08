@@ -16,7 +16,6 @@ Go-based API for workout and exercise management, offering authentication and wo
 - **Workout Module**
   - Workout creation and management
   - Exercise tracking
-  - Workout history
 
 ## Technologies
 
@@ -28,10 +27,10 @@ Go-based API for workout and exercise management, offering authentication and wo
 
 ## TODO List
 
+- [ ] List workouts(Pagination)
 - [ ] Add Observability (logs, metrics and tracing)
 - [ ] Refactor to Feature-based Organization
 - [ ] Add Swagger Documentation
 - [ ] Implement Integration Tests
 - [ ] Add CI/CD Pipeline
-- [ ] Implement Caching
-- [ ] Add Rate Limiting
+- [ ] Add Rate Limiting 👀
